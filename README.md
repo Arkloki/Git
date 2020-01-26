@@ -6,5 +6,5 @@ Ensemble de Script/fonctionnalité Git
 Ce sont des scripts personnalisés lancés quand certaines actions importantes ont lieu (ex : le commit)
 
 ## Les commandes
-* les commandes courante de git
-* un cheat sheet git des commandes
+* Les commandes courante de git
+* Un cheat sheet git des commandes
