@@ -21,6 +21,12 @@ touch .git/hooks/pre-commit
 ln -s -f ../../hooks/pre-commit .git/hooks/pre-commit
 ```
 
+### Info :
+Dans le cas de notre exemple , si on veut passer outre le hook mis en place, il suffit de taper ceci :
+
+`bash
+git commit --no-verify
+`
 
 ### Source : 
 * https://www.youtube.com/watch?v=7sBXEQ1dN4A
