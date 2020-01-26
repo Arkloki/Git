@@ -7,4 +7,4 @@ Ce sont des scripts personnalisés lancés quand certaines actions importantes o
 
 ## Les commandes
 * les commandes courante de git
-* un cheat sheet git
+* un cheat sheet git des commandes
