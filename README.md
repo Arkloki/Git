@@ -9,7 +9,7 @@ Normalement les Hook sont soit cotés client soit cotés serveur et non partagea
 
 Il existe une methode pour les rendre versionnable et partageable
 
-La creation d'un dossier "hooks" et un lien symbolique entre le hook versionnable et le hook ce trouvant dans le .git/hooks
+La creation d'un dossier "hooks" est un lien symbolique entre le hook versionnable et le hook ce trouvant dans le .git/hooks
 
 ### Exemple :
 
