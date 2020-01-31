@@ -9,6 +9,11 @@
 * git  pull :  récupère le contenu du repo en ligne
 * git  show : voir la derniere modif
 
+### initialisation git local vers github
+Creer un un repo vide
+* git remote add **\<nom\>** \<lien clone github\>
+* git push -u **\<nom\>** \<branch\>
+
 ### Sources : 
 
 https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf
